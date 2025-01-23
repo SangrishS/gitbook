@@ -1,0 +1,1 @@
+#### News Sentiment Analysis Integration for Financial Data

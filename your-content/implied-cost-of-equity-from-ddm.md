@@ -1,0 +1,1 @@
+###### Implied Cost of Equity from DDM

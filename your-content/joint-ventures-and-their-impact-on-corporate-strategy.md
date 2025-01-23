@@ -1,0 +1,1 @@
+##### Joint Ventures and Their Impact on Corporate Strategy

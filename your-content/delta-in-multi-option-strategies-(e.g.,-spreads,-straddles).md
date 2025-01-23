@@ -1,0 +1,1 @@
+###### Delta in Multi-Option Strategies (e.g., Spreads, Straddles)

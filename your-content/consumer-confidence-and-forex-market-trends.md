@@ -1,0 +1,1 @@
+##### Consumer Confidence and Forex Market Trends

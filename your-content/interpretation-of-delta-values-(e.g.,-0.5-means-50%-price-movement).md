@@ -1,0 +1,1 @@
+######### Interpretation of Delta Values (e.g., 0.5 means 50% price movement)

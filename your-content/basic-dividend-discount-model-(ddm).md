@@ -1,0 +1,1 @@
+###### Basic Dividend Discount Model (DDM)

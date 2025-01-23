@@ -1,0 +1,1 @@
+###### P/B Ratio and Asset Intensity Correlation

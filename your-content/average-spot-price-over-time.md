@@ -1,0 +1,1 @@
+###### Average Spot Price Over Time

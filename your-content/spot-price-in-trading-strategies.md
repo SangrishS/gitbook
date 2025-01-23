@@ -1,0 +1,1 @@
+##### Spot Price in Trading Strategies

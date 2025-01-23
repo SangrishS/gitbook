@@ -1,0 +1,1 @@
+###### Ex-Dividend Date Impact on Volatility

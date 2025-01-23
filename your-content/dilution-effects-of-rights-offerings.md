@@ -1,0 +1,1 @@
+##### Dilution Effects of Rights Offerings

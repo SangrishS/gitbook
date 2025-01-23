@@ -1,0 +1,1 @@
+###### Trend Strength and Direction Analysis

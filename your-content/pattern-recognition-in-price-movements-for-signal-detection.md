@@ -1,0 +1,1 @@
+##### Pattern Recognition in Price Movements for Signal Detection

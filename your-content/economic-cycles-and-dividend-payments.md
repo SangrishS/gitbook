@@ -1,0 +1,1 @@
+###### Economic Cycles and Dividend Payments

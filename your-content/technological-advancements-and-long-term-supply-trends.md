@@ -1,0 +1,1 @@
+###### Technological Advancements and Long-Term Supply Trends

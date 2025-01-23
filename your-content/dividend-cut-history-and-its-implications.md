@@ -1,0 +1,1 @@
+###### Dividend Cut History and Its Implications

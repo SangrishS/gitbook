@@ -1,0 +1,1 @@
+##### Currency Pair Sensitivity to Rate Hikes/Cuts

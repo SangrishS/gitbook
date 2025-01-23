@@ -1,0 +1,1 @@
+#### Sentiment Shifts Following Legal and Regulatory Investigations

@@ -1,0 +1,1 @@
+###### P/S Ratio for High-Growth Companies

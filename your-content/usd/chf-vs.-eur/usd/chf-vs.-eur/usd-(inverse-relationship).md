@@ -1,0 +1,1 @@
+###### USD/CHF vs. EUR/USD (Inverse Relationship)

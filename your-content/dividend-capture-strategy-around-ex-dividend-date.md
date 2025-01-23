@@ -1,0 +1,1 @@
+###### Dividend Capture Strategy Around Ex-Dividend Date

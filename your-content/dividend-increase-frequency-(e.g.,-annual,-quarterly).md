@@ -1,0 +1,1 @@
+###### Dividend Increase Frequency (e.g., Annual, Quarterly)

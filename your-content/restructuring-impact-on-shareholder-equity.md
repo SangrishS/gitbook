@@ -1,0 +1,1 @@
+##### Restructuring Impact on Shareholder Equity

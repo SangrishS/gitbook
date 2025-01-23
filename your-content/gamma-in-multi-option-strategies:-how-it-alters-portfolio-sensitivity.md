@@ -1,0 +1,1 @@
+###### Gamma in Multi-Option Strategies: How it Alters Portfolio Sensitivity

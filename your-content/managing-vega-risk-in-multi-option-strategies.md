@@ -1,0 +1,1 @@
+###### Managing Vega Risk in Multi-Option Strategies

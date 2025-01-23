@@ -1,0 +1,1 @@
+###### Dividend Capture Strategies in Active Management

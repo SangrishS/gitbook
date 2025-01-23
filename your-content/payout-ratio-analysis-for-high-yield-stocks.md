@@ -1,0 +1,1 @@
+###### Payout Ratio Analysis for High-Yield Stocks

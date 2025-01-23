@@ -1,0 +1,1 @@
+##### Historical Volatility of Currency Pairs

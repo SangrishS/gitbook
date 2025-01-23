@@ -1,0 +1,1 @@
+###### Dividend Resumption After Cuts

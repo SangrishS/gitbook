@@ -1,0 +1,1 @@
+###### USD/JPY vs. Gold Prices (Inverse Correlation)

@@ -1,0 +1,1 @@
+###### Seasonal Patterns in Currency Correlations

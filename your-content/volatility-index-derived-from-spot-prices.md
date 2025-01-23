@@ -1,0 +1,1 @@
+###### Volatility Index Derived From Spot Prices

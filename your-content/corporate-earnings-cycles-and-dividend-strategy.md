@@ -1,0 +1,1 @@
+###### Corporate Earnings Cycles and Dividend Strategy

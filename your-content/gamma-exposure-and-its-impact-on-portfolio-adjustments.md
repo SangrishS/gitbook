@@ -1,0 +1,1 @@
+###### Gamma Exposure and Its Impact on Portfolio Adjustments

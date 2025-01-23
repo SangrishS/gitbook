@@ -1,0 +1,1 @@
+###### Standard Deviation of Daily Returns

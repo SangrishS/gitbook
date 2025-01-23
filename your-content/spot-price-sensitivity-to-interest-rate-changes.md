@@ -1,0 +1,1 @@
+###### Spot Price Sensitivity to Interest Rate Changes

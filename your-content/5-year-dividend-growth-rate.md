@@ -1,0 +1,1 @@
+####### 5-Year Dividend Growth Rate

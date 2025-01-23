@@ -1,0 +1,1 @@
+#### Trend Following and Mean Reversion Algorithms

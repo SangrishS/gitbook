@@ -1,0 +1,1 @@
+##### Dividend History and Consistency

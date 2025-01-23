@@ -1,0 +1,1 @@
+###### Macroeconomic Shocks and Their Impact on Dividends

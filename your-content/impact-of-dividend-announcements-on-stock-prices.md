@@ -1,0 +1,1 @@
+##### Impact of Dividend Announcements on Stock Prices

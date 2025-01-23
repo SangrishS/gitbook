@@ -1,0 +1,1 @@
+##### Global Economic Trends and Their Effect on Commodity Prices

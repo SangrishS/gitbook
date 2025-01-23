@@ -1,0 +1,1 @@
+###### Delta Hedging: Managing Risk Through Adjustments

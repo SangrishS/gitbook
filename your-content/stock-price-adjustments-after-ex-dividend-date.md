@@ -1,0 +1,1 @@
+###### Stock Price Adjustments After Ex-Dividend Date

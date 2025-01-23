@@ -1,0 +1,1 @@
+###### Time Decay Effects in Volatile Markets and Short-Term Options

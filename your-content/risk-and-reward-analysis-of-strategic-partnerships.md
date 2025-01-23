@@ -1,0 +1,1 @@
+##### Risk and Reward Analysis of Strategic Partnerships

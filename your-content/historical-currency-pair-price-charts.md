@@ -1,0 +1,1 @@
+##### Historical Currency Pair Price Charts

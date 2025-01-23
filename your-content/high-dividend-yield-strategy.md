@@ -1,0 +1,1 @@
+###### High-Dividend Yield Strategy

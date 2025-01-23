@@ -1,0 +1,1 @@
+###### Tax Implications of Dividends in Different Jurisdictions

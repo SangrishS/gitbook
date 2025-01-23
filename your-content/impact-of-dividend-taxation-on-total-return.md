@@ -1,0 +1,1 @@
+###### Impact of Dividend Taxation on Total Return

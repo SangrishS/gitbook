@@ -1,0 +1,1 @@
+###### Taxation Effects on Spot Price Analytics

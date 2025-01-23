@@ -1,0 +1,1 @@
+##### Impact of Currency Movements on Commodity Price Forecasts

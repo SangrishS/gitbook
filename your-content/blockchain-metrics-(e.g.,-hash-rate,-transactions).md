@@ -1,0 +1,1 @@
+#### Blockchain Metrics (e.g., Hash Rate, Transactions)

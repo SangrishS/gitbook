@@ -1,0 +1,1 @@
+##### Purchasing Power Parity (PPP) Theory and Forex Markets

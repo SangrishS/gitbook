@@ -1,0 +1,1 @@
+###### Impact of Forward Guidance on Currency Correlations

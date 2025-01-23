@@ -1,0 +1,1 @@
+###### Spot Price Correlation With Currency Movements

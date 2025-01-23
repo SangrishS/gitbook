@@ -1,0 +1,1 @@
+##### Subscription Rights and Their Market Impact

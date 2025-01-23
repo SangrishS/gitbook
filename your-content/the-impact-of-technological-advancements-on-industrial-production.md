@@ -1,0 +1,1 @@
+##### The Impact of Technological Advancements on Industrial Production

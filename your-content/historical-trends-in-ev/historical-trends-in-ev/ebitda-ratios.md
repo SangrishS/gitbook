@@ -1,0 +1,1 @@
+###### Historical Trends in EV/EBITDA Ratios

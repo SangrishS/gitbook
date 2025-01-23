@@ -1,0 +1,1 @@
+###### Gamma and Vega Hedging in Large Portfolios

@@ -1,0 +1,1 @@
+###### Time Decay and Its Impact on Option Premiums

@@ -1,0 +1,1 @@
+##### Shareholder Proposal Trends and Market Reactions

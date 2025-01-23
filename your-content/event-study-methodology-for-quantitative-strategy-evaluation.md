@@ -1,0 +1,1 @@
+#### Event Study Methodology for Quantitative Strategy Evaluation

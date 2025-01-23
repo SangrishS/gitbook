@@ -1,0 +1,1 @@
+##### Retail Trader Sentiment Data and Currency Movements

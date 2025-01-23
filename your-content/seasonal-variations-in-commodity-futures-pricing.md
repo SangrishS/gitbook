@@ -1,0 +1,1 @@
+###### Seasonal Variations in Commodity Futures Pricing

@@ -1,0 +1,1 @@
+#### News Impact and Sector Rotation in Portfolio Management

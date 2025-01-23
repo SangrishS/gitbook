@@ -1,0 +1,1 @@
+###### Mid-Segment Yield Curve Behavior

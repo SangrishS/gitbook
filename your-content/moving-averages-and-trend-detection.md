@@ -1,0 +1,1 @@
+#### Moving Averages and Trend Detection

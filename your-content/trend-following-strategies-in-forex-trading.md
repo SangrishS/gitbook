@@ -1,0 +1,1 @@
+##### Trend Following Strategies in Forex Trading

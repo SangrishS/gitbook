@@ -1,0 +1,1 @@
+##### Adjustments for Different Accounting Methods Across Segments

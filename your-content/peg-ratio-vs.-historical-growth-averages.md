@@ -1,0 +1,1 @@
+###### PEG Ratio vs. Historical Growth Averages

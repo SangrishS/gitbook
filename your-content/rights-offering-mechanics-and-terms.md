@@ -1,0 +1,1 @@
+##### Rights Offering Mechanics and Terms

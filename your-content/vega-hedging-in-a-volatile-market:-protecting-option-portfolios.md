@@ -1,0 +1,1 @@
+###### Vega Hedging in a Volatile Market: Protecting Option Portfolios

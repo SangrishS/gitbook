@@ -1,0 +1,1 @@
+###### Seasonal Trend Analysis for Spot Price Predictions

@@ -1,0 +1,1 @@
+##### Impact of Interest Rate Differentials on Currency Prices

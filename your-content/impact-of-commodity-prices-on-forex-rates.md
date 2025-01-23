@@ -1,0 +1,1 @@
+##### Impact of Commodity Prices on Forex Rates

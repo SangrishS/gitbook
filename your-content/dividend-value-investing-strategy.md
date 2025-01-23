@@ -1,0 +1,1 @@
+###### Dividend Value Investing Strategy

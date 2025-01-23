@@ -1,0 +1,1 @@
+##### Sentiment Shifts During Political or Economic Crises

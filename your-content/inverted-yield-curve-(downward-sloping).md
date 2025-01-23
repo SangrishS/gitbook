@@ -1,0 +1,1 @@
+###### Inverted Yield Curve (Downward Sloping)

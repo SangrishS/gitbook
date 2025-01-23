@@ -1,0 +1,1 @@
+###### EUR/JPY vs. GBP/JPY Correlation

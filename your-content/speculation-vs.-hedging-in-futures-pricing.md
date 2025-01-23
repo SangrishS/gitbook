@@ -1,0 +1,1 @@
+###### Speculation vs. Hedging in Futures Pricing

@@ -1,0 +1,1 @@
+##### Currency Synchronization Across Global Markets

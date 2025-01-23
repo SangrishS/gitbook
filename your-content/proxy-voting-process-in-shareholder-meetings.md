@@ -1,0 +1,1 @@
+##### Proxy Voting Process in Shareholder Meetings

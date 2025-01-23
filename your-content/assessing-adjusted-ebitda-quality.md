@@ -1,0 +1,1 @@
+##### Assessing Adjusted EBITDA Quality

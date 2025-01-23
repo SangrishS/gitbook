@@ -1,0 +1,1 @@
+###### Inflationary Trends and Spot Price Adjustments

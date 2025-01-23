@@ -1,0 +1,1 @@
+##### Residual Income Model (RIM)

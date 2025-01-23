@@ -1,0 +1,1 @@
+###### EUR/USD vs. GBP/USD Correlation

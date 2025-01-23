@@ -1,0 +1,1 @@
+##### Intraday Currency Movements and Trends

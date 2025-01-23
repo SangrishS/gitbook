@@ -1,0 +1,1 @@
+###### Payout Ratio Calculation (Dividend/Net Income)

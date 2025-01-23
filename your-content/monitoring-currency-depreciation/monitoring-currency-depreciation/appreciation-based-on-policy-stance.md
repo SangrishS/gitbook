@@ -1,0 +1,1 @@
+##### Monitoring Currency Depreciation/Appreciation Based on Policy Stance

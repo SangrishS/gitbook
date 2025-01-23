@@ -1,0 +1,1 @@
+##### Intermarket Analysis for Forex Trends

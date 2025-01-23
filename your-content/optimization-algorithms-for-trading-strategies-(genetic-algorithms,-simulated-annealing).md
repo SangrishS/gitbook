@@ -1,0 +1,1 @@
+#### Optimization Algorithms for Trading Strategies (Genetic Algorithms, Simulated Annealing)

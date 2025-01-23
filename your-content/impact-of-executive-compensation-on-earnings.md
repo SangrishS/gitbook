@@ -1,0 +1,1 @@
+##### Impact of Executive Compensation on Earnings

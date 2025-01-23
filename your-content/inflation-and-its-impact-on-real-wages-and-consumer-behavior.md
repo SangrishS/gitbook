@@ -1,0 +1,1 @@
+##### Inflation and Its Impact on Real Wages and Consumer Behavior

@@ -1,0 +1,1 @@
+##### Predicting Economic Recessions Using Consumer Confidence Data

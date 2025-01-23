@@ -1,0 +1,1 @@
+#### Macro and Geopolitical Impact on Forex

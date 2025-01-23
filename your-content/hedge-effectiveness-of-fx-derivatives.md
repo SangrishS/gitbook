@@ -1,0 +1,1 @@
+##### Hedge Effectiveness of FX Derivatives

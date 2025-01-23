@@ -1,0 +1,1 @@
+###### Labor Cost Sensitivity in Manufacturing Decisions

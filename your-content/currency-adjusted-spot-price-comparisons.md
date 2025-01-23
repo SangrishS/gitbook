@@ -1,0 +1,1 @@
+###### Currency-Adjusted Spot Price Comparisons

@@ -1,0 +1,1 @@
+##### Operating Income vs. Non-Operating Income

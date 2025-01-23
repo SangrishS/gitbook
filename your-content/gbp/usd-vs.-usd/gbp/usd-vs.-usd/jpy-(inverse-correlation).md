@@ -1,0 +1,1 @@
+###### GBP/USD vs. USD/JPY (Inverse Correlation)

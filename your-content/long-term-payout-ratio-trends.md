@@ -1,0 +1,1 @@
+###### Long-Term Payout Ratio Trends

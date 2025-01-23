@@ -1,0 +1,1 @@
+##### Special Dividends and Their Market Impact

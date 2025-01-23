@@ -1,0 +1,1 @@
+##### Dividend Coverage from Cash Flow

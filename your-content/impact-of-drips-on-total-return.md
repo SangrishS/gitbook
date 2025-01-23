@@ -1,0 +1,1 @@
+###### Impact of DRIPs on Total Return

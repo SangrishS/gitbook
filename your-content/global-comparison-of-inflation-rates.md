@@ -1,0 +1,1 @@
+##### Global Comparison of Inflation Rates

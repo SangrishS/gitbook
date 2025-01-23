@@ -1,0 +1,1 @@
+##### Non-Recurring Items in Earnings

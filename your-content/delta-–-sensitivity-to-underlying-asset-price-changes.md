@@ -1,1 +1,0 @@
-###### Delta – Sensitivity to Underlying Asset Price Changes

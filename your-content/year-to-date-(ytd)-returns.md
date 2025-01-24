@@ -1,1 +1,0 @@
-###### Year-to-Date (YTD) Returns

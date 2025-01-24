@@ -1,1 +1,0 @@
-###### Opening vs. Closing Prices

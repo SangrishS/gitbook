@@ -1,1 +1,0 @@
-###### Vega for ATM, ITM, and OTM Options

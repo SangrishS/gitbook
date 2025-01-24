@@ -1,1 +1,0 @@
-###### Relative Market Cap Analysis in Mergers & Acquisitions

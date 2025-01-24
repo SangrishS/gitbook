@@ -1,1 +1,0 @@
-####### Trailing Dividend Yield (12-Month)

@@ -1,1 +1,0 @@
-###### Gold Prices vs. USD (Inverse Correlation)

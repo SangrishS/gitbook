@@ -1,1 +1,0 @@
-##### Optimal Execution Algorithms (VWAP, TWAP)

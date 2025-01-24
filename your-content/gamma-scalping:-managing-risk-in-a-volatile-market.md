@@ -1,1 +1,0 @@
-###### Gamma Scalping: Managing Risk in a Volatile Market

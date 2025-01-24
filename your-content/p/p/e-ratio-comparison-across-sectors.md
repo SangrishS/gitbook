@@ -1,1 +1,0 @@
-###### P/E Ratio Comparison Across Sectors

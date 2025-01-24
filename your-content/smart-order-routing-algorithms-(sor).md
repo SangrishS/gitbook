@@ -1,1 +1,0 @@
-##### Smart Order Routing Algorithms (SOR)

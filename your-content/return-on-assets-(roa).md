@@ -1,1 +1,0 @@
-##### Return on Assets (ROA)

@@ -1,1 +1,0 @@
-###### P/E Ratio vs. Earnings Growth (PEG Ratio)

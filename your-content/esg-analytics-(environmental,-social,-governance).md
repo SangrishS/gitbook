@@ -1,1 +1,0 @@
-## ESG Analytics (Environmental, Social, Governance)

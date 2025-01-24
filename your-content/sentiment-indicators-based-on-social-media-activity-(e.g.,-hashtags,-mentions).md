@@ -1,1 +1,0 @@
-#### Sentiment Indicators Based on Social Media Activity (e.g., Hashtags, Mentions)

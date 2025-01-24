@@ -1,1 +1,0 @@
-###### Market Cap Classification (Large, Mid, Small-Cap)

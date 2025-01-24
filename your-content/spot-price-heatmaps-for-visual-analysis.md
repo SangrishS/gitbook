@@ -1,1 +1,3 @@
-###### Spot Price Heatmaps for Visual Analysis
+###### |   |   |   |   |   ├── Spot Price Heatmaps for Visual Analysis
+
+*Add content here*

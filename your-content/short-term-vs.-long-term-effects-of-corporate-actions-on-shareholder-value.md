@@ -1,1 +1,0 @@
-##### Short-Term vs. Long-Term Effects of Corporate Actions on Shareholder Value

@@ -1,1 +1,0 @@
-##### Price-to-Sales (P/S) Ratio

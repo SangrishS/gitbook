@@ -1,1 +1,0 @@
-##### Auditor’s Impact on Investor Confidence

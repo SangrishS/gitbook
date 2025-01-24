@@ -1,1 +1,0 @@
-###### P/B vs. Historical Averages

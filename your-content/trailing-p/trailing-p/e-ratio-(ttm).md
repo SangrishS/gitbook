@@ -1,1 +1,0 @@
-###### Trailing P/E Ratio (TTM)

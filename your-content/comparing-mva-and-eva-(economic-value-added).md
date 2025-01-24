@@ -1,1 +1,0 @@
-###### Comparing MVA and EVA (Economic Value Added)

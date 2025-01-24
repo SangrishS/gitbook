@@ -1,1 +1,0 @@
-###### USD/JPY vs. EUR/USD Correlation

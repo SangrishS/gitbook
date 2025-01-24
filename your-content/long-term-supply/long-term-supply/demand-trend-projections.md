@@ -1,1 +1,0 @@
-###### Long-Term Supply/Demand Trend Projections

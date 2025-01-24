@@ -1,1 +1,0 @@
-###### Dividend Reinvestment vs. Cash Payment

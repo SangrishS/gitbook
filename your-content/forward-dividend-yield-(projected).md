@@ -1,1 +1,0 @@
-###### Forward Dividend Yield (Projected)

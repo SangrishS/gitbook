@@ -1,1 +1,0 @@
-###### Theta – Time Decay Sensitivity

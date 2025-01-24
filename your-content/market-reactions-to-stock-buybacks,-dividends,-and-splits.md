@@ -1,1 +1,0 @@
-##### Market Reactions to Stock Buybacks, Dividends, and Splits

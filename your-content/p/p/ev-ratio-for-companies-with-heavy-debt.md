@@ -1,1 +1,0 @@
-###### P/EV Ratio for Companies with Heavy Debt

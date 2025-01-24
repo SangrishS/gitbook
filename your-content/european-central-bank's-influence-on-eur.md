@@ -1,1 +1,0 @@
-##### European Central Bank's Influence on EUR

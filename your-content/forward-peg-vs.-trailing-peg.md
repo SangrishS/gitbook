@@ -1,1 +1,0 @@
-###### Forward PEG vs. Trailing PEG

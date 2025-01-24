@@ -1,1 +1,0 @@
-###### Regional Spread Comparisons (e.g., US vs. Europe)

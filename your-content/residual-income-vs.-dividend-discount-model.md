@@ -1,1 +1,0 @@
-###### Residual Income vs. Dividend Discount Model

@@ -1,1 +1,3 @@
-#### Moving Averages and Trend Detection
+#### |   |   |   ├── Moving Averages and Trend Detection
+
+*Add content here*

@@ -1,1 +1,3 @@
-##### Structural Models for Forecasting Inflation Trends
+##### |   |   |   |   ├── Structural Models for Forecasting Inflation Trends
+
+*Add content here*

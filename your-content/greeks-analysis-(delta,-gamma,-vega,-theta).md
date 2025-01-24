@@ -1,1 +1,0 @@
-#### Greeks Analysis (Delta, Gamma, Vega, Theta)

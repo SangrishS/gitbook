@@ -1,1 +1,3 @@
-###### Inflationary Trends and Spot Price Adjustments
+###### |   |   |   |   |   ├── Inflationary Trends and Spot Price Adjustments
+
+*Add content here*

@@ -1,1 +1,0 @@
-###### PEG Ratio by Sector (Tech, Consumer Goods, etc.)

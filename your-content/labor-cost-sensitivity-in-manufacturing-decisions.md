@@ -1,1 +1,3 @@
-###### Labor Cost Sensitivity in Manufacturing Decisions
+###### |   |   |   |   |   ├── Labor Cost Sensitivity in Manufacturing Decisions
+
+*Add content here*

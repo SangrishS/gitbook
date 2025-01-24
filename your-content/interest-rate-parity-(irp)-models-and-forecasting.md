@@ -1,1 +1,0 @@
-##### Interest Rate Parity (IRP) Models and Forecasting

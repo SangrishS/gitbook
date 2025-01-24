@@ -1,1 +1,0 @@
-###### Equity Supply/Demand Based on IPO and Secondary Offerings

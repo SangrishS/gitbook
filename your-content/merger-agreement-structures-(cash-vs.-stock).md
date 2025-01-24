@@ -1,1 +1,0 @@
-##### Merger Agreement Structures (Cash vs. Stock)

@@ -1,1 +1,0 @@
-###### Vega – Sensitivity to Volatility Changes

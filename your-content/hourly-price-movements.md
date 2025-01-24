@@ -1,1 +1,3 @@
-###### Hourly Price Movements
+###### |   |   |   |   |   ├── Hourly Price Movements
+
+*Add content here*

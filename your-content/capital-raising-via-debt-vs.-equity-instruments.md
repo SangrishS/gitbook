@@ -1,1 +1,0 @@
-##### Capital Raising via Debt vs. Equity Instruments

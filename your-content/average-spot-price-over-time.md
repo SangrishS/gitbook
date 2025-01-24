@@ -1,1 +1,3 @@
-###### Average Spot Price Over Time
+###### |   |   |   |   |   ├── Average Spot Price Over Time
+
+*Add content here*

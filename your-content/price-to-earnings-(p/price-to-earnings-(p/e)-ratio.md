@@ -1,1 +1,0 @@
-##### Price-to-Earnings (P/E) Ratio

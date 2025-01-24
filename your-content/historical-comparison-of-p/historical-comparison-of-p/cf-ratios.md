@@ -1,1 +1,0 @@
-###### Historical Comparison of P/CF Ratios

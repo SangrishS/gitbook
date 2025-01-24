@@ -1,1 +1,0 @@
-###### Sustainable Payout Ratio (based on cash flow)

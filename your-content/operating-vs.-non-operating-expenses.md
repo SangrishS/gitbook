@@ -1,1 +1,0 @@
-##### Operating vs. Non-Operating Expenses

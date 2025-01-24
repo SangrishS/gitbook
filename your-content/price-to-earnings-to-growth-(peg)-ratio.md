@@ -1,1 +1,0 @@
-##### Price-to-Earnings-to-Growth (PEG) Ratio

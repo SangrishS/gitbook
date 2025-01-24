@@ -1,1 +1,0 @@
-###### P/CF Ratio vs. P/E Ratio for Cash-Rich Companies

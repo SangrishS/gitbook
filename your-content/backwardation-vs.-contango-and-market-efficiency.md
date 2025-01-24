@@ -1,1 +1,0 @@
-###### Backwardation vs. Contango and Market Efficiency

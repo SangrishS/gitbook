@@ -1,1 +1,0 @@
-###### Sector-Specific P/S Ratios

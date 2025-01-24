@@ -1,1 +1,0 @@
-###### Demand Sensitivity to Price Changes (Elasticity)

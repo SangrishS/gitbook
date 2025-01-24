@@ -1,1 +1,0 @@
-###### Pre-Crisis vs. Post-Crisis Spread Comparisons

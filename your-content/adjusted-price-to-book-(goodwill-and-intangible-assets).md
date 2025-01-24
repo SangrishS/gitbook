@@ -1,1 +1,0 @@
-###### Adjusted Price-to-Book (Goodwill and Intangible Assets)

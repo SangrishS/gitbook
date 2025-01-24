@@ -1,1 +1,0 @@
-###### Dividend Taxation Across Asset Classes (Equities, REITs, MLPs)

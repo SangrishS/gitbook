@@ -1,0 +1,3 @@
+##### |   |   |   |   ├── Inflation Forecasting and Predictive Models (e.g., ARIMA, GARCH)
+
+*Add content here*

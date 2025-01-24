@@ -1,1 +1,0 @@
-###### Oil and Gas Supply/Demand Trends

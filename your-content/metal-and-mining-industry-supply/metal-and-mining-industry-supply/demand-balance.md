@@ -1,1 +1,0 @@
-###### Metal and Mining Industry Supply/Demand Balance

@@ -1,1 +1,0 @@
-###### Dividend Payment History (Consistency Over Years)

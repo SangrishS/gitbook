@@ -1,1 +1,0 @@
-###### Weighted Spot Price Indices for Sectors (e.g., Metals, Energy)

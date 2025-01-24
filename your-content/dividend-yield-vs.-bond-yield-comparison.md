@@ -1,1 +1,0 @@
-###### Dividend Yield vs. Bond Yield Comparison

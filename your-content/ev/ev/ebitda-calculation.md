@@ -1,1 +1,0 @@
-###### EV/EBITDA Calculation

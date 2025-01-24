@@ -1,1 +1,3 @@
-###### Inflation-Adjusted Spot Prices
+###### |   |   |   |   |   ├── Inflation-Adjusted Spot Prices
+
+*Add content here*

@@ -1,1 +1,0 @@
-###### Theta Definition: Sensitivity to Time Decay

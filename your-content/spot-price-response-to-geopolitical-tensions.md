@@ -1,1 +1,3 @@
-###### Spot Price Response to Geopolitical Tensions
+###### |   |   |   |   |   ├── Spot Price Response to Geopolitical Tensions
+
+*Add content here*

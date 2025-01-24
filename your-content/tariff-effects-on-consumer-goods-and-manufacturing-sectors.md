@@ -1,1 +1,3 @@
-###### Tariff Effects on Consumer Goods and Manufacturing Sectors
+###### |   |   |   |   |   ├── Tariff Effects on Consumer Goods and Manufacturing Sectors
+
+*Add content here*

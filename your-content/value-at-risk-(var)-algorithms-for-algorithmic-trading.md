@@ -1,1 +1,0 @@
-##### Value-at-Risk (VaR) Algorithms for Algorithmic Trading

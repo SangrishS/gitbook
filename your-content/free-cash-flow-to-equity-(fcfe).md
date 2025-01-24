@@ -1,1 +1,0 @@
-##### Free Cash Flow to Equity (FCFE)

@@ -1,1 +1,0 @@
-###### Operating vs. Free Cash Flow in P/CF Calculation

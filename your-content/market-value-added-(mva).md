@@ -1,1 +1,0 @@
-##### Market Value Added (MVA)

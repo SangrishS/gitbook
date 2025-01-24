@@ -1,1 +1,0 @@
-###### P/S Ratio for Growth vs. Value Stocks

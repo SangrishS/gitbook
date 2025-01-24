@@ -1,1 +1,0 @@
-##### Buyback vs. Dividend Policy: Investor Preferences

@@ -1,1 +1,0 @@
-#### Options Strategies (e.g., Straddles, Butterflies)

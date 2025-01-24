@@ -1,1 +1,0 @@
-##### Price-to-Enterprise Value (P/EV) Ratio

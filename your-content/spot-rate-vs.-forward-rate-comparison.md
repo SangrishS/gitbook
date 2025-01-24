@@ -1,1 +1,0 @@
-###### Spot Rate vs. Forward Rate Comparison

@@ -1,1 +1,0 @@
-###### Historical Trends of P/FCF Ratios by Sector

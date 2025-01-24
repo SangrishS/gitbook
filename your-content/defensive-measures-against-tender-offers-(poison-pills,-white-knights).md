@@ -1,1 +1,0 @@
-##### Defensive Measures Against Tender Offers (Poison Pills, White Knights)

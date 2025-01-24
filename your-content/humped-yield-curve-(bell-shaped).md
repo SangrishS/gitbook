@@ -1,1 +1,0 @@
-###### Humped Yield Curve (Bell-Shaped)

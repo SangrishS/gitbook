@@ -1,1 +1,3 @@
-#### Event Study Methodology for Quantifying Impact of News Events
+#### |   |   |   ├── Event Study Methodology for Quantifying Impact of News Events
+
+*Add content here*

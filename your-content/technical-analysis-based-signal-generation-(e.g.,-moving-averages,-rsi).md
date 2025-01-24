@@ -1,1 +1,0 @@
-##### Technical Analysis-Based Signal Generation (e.g., Moving Averages, RSI)

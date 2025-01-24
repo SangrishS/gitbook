@@ -1,1 +1,0 @@
-###### P/FCF Ratio Calculation

@@ -1,1 +1,0 @@
-###### Central Bank Policies’ Impact on Spot Prices

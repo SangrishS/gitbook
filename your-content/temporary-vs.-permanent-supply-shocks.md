@@ -1,1 +1,0 @@
-###### Temporary vs. Permanent Supply Shocks

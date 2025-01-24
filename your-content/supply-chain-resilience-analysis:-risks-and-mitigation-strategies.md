@@ -1,1 +1,0 @@
-##### Supply Chain Resilience Analysis: Risks and Mitigation Strategies

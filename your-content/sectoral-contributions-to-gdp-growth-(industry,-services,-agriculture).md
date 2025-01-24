@@ -1,1 +1,0 @@
-##### Sectoral Contributions to GDP Growth (Industry, Services, Agriculture)

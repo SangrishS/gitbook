@@ -1,1 +1,0 @@
-##### Return on Invested Capital (ROIC)

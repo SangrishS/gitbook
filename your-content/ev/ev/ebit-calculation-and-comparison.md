@@ -1,1 +1,0 @@
-###### EV/EBIT Calculation and Comparison

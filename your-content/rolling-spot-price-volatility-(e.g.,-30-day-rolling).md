@@ -1,1 +1,0 @@
-####### Rolling Spot Price Volatility (e.g., 30-Day Rolling)

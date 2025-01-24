@@ -1,1 +1,0 @@
-##### Regulatory and Legal Considerations in M&A

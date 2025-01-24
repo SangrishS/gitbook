@@ -1,1 +1,0 @@
-###### Technology Supply/Demand Trends (e.g., Semiconductors)

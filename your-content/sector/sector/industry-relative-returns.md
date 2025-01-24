@@ -1,1 +1,0 @@
-###### Sector/Industry Relative Returns

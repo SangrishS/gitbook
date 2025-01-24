@@ -1,1 +1,0 @@
-###### Higher-Order Greeks (Vanna, Charm, and Vomma)

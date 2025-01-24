@@ -1,1 +1,0 @@
-##### Stockholder’s Equity Changes

@@ -1,3 +1,3 @@
-#### |   |   |   ├── Energy Efficiency Metrics
+### |   |   ├──  Energy Efficiency Metrics
 
 *Add content here*

@@ -1,3 +1,3 @@
-####### |   |   |   |   |   |   ├── Relative Strength Index (RSI)
+### |   |   ├──  Relative Strength Index (RSI)
 
 *Add content here*

@@ -1,3 +1,0 @@
-##### |   |   |   |   ├── Dynamic Stochastic General Equilibrium (DSGE) Models for Interest Rate Forecasting
-
-*Add content here*

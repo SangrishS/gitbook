@@ -1,3 +1,0 @@
-##### |   |   |   |   ├── Vega
-
-*Add content here*

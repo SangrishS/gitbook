@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├── Credit Risk Analytics
+### |   |   ├──  Credit Risk Analytics
 
 *Add content here*

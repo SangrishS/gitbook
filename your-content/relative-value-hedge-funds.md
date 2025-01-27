@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Relative Value Hedge Funds
+###### |   |   |   |   |   ├── Relative Value Hedge Funds
 
 *Add content here*

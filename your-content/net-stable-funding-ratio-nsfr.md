@@ -1,3 +1,3 @@
-######## |   |   |   |   |   |   |   ├── Net Stable Funding Ratio (NSFR)
+##### |   |   |   |   ├── Net Stable Funding Ratio (NSFR)
 
 *Add content here*

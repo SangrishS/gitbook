@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├── Floating-Rate Notes (FRNs)
+##### |   |   |   |   ├── Floating Rate Notes (FRNs)
 
 *Add content here*

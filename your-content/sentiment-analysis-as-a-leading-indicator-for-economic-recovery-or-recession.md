@@ -1,3 +1,0 @@
-#### |   |   |   ├── Sentiment Analysis as a Leading Indicator for Economic Recovery or Recession
-
-*Add content here*

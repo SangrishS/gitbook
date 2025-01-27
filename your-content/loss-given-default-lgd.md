@@ -1,3 +1,3 @@
-######## |   |   |   |   |   |   |   ├── Loss Given Default (LGD)
+##### |   |   |   |   ├──  Loss Given Default (LGD)
 
 *Add content here*

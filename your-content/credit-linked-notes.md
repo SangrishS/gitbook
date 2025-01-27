@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Credit-Linked Notes
+##### |   |   |   |   ├── Credit-Linked Notes
 
 *Add content here*

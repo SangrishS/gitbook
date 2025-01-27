@@ -1,3 +1,0 @@
-##### |   |   |   |   ├── The Impact of Geopolitical Risks on Supply Chain Costs and Flow
-
-*Add content here*

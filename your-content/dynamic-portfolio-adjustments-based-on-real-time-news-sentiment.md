@@ -1,3 +1,0 @@
-#### |   |   |   ├── Dynamic Portfolio Adjustments Based on Real-Time News Sentiment
-
-*Add content here*

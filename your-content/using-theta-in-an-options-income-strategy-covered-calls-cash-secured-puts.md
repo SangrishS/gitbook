@@ -1,3 +1,0 @@
-###### |   |   |   |   |   ├── Using Theta in an Options Income Strategy (Covered Calls, Cash Secured Puts)
-
-*Add content here*

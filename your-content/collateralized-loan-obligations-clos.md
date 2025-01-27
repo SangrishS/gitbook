@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Collateralized Loan Obligations (CLOs)
+##### |   |   |   |   ├── Collateralized Loan Obligations (CLOs)
 
 *Add content here*

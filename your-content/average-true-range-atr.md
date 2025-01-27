@@ -1,3 +1,3 @@
-### |   |   ├──  Average True Range (ATR)
+##### |   |   |   |   ├── Average True Range (ATR)
 
 *Add content here*

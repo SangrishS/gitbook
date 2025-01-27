@@ -1,3 +1,3 @@
-#### |   |   |   ├── Precedent Transactions
+### |   |   ├── Precedent Transactions
 
 *Add content here*

@@ -1,3 +1,0 @@
-##### |   |   |   |   ├── Multivariable Economic Models for Predicting Growth and Stability in Global Markets
-
-*Add content here*

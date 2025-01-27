@@ -1,3 +1,0 @@
-#### |   |   |   ├──  Cryptocurrencies
-
-*Add content here*

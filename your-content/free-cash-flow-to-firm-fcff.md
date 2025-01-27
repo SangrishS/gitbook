@@ -1,3 +1,3 @@
-##### |   |   |   |   ├── Free Cash Flow to Firm (FCFF)
+### |   |   ├── Free Cash Flow to Firm (FCFF)
 
 *Add content here*

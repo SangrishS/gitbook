@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Equity REITs
+###### |   |   |   |   |   ├── Equity REITs
 
 *Add content here*

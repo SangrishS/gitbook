@@ -1,3 +1,3 @@
-### |   |   ├──  Stochastic Oscillator
+##### |   |   |   |   ├── Stochastic Oscillator
 
 *Add content here*

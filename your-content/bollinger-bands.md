@@ -1,3 +1,3 @@
-### |   |   ├──  Bollinger Bands
+##### |   |   |   |   ├── Bollinger Bands
 
 *Add content here*

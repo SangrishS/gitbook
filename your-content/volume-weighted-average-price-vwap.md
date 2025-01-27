@@ -1,3 +1,3 @@
-####### |   |   |   |   |   |   ├── Volume Weighted Average Price (VWAP)
+##### |   |   |   |   ├── Volume Weighted Average Price (VWAP)
 
 *Add content here*

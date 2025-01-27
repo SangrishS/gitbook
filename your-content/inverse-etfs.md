@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Inverse ETFs
+####### |   |   |   |   |   |   ├── Inverse ETFs
 
 *Add content here*

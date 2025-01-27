@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  ESG ETFs
+###### |   |   |   |   |   ├── ESG ETFs
 
 *Add content here*

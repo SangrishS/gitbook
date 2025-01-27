@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Lookback Options
+####### |   |   |   |   |   |   ├── Lookback Options
 
 *Add content here*

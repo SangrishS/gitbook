@@ -1,3 +1,0 @@
-#### |   |   |   ├── Descriptive Statistics for Financial Data (Mean, Median, Variance)
-
-*Add content here*

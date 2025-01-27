@@ -1,3 +1,3 @@
-##### |   |   |   |   ├──  Security Tokens
+##### |   |   |   |   ├── Security Tokens
 
 *Add content here*

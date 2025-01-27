@@ -1,3 +1,3 @@
-##### |   |   |   |   ├── Price-to-Sales (P/S) Ratio
+###### |   |   |   |   |   ├── Price-to-Sales (P/S) Ratio
 
 *Add content here*

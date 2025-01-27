@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Collateralized Debt Obligations (CDOs)
+##### |   |   |   |   ├── Collateralized Debt Obligations (CDOs)
 
 *Add content here*

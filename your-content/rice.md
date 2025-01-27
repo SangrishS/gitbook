@@ -1,3 +1,0 @@
-####### |   |   |   |   |   |   ├── Rice
-
-*Add content here*

@@ -1,3 +1,3 @@
-##### |   |   |   |   ├──  Equity Tokens
+###### |   |   |   |   |   ├── Equity Tokens
 
 *Add content here*

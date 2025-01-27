@@ -1,3 +1,0 @@
-##### |   |   |   |   ├── Gamma
-
-*Add content here*

@@ -1,3 +1,3 @@
-######## |   |   |   |   |   |   |   ├── Liquidity Coverage Ratio (LCR)
+##### |   |   |   |   ├── Liquidity Coverage Ratio (LCR)
 
 *Add content here*

@@ -1,3 +1,3 @@
-##### |   |   |   |   ├──  Exchange-Traded Funds (ETFs)
+##### |   |   |   |   ├── Exchange-Traded Funds (ETFs)
 
 *Add content here*

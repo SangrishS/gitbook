@@ -1,3 +1,0 @@
-###### |   |   |   |   |   ├── Sentiment Scoring Systems and Models (e.g., 1-10 Scale)
-
-*Add content here*

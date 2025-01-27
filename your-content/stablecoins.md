@@ -1,3 +1,3 @@
-##### |   |   |   |   ├──  Stablecoins
+###### |   |   |   |   |   ├── Stablecoins
 
 *Add content here*

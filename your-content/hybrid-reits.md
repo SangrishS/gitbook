@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Hybrid REITs
+###### |   |   |   |   |   ├── Hybrid REITs
 
 *Add content here*

@@ -1,3 +1,3 @@
-#### |   |   |   ├──  Tokenized Securities
+#### |   |   |   ├── Tokenized Securities
 
 *Add content here*

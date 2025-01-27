@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Barrier Options
+####### |   |   |   |   |   |   ├── Barrier Options
 
 *Add content here*

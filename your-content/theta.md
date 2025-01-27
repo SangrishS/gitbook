@@ -1,3 +1,0 @@
-##### |   |   |   |   ├── Theta
-
-*Add content here*

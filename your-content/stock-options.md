@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Stock Options
+###### |   |   |   |   |   ├── Stock Options
 
 *Add content here*

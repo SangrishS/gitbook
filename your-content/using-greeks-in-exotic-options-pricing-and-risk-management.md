@@ -1,3 +1,0 @@
-###### |   |   |   |   |   ├── Using Greeks in Exotic Options Pricing and Risk Management
-
-*Add content here*

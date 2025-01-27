@@ -1,3 +1,3 @@
-## |   ├──  Inventory Management Metrics
+### |   |   ├── Inventory Management Metrics
 
 *Add content here*

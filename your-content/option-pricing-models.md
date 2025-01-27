@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├── Option Pricing Models
+### |   |   ├── Option Pricing Models
 
 *Add content here*

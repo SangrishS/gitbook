@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Custom Benchmarks
+##### |   |   |   |   ├── Custom Benchmarks
 
 *Add content here*

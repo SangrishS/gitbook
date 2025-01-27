@@ -1,3 +1,0 @@
-### |   |   ├── Assets
-
-*Add content here*

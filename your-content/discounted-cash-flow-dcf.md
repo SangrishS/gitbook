@@ -1,3 +1,3 @@
-#### |   |   |   ├── Discounted Cash Flow (DCF)
+### |   |   ├── Discounted Cash Flow (DCF)
 
 *Add content here*

@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Thematic ETFs
+###### |   |   |   |   |   ├── Thematic ETFs
 
 *Add content here*

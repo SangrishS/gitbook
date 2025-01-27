@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Equity Swaps
+###### |   |   |   |   |   ├── Equity Swaps
 
 *Add content here*

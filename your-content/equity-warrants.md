@@ -1,3 +1,3 @@
-######## |   |   |   |   |   |   |   ├── Equity Warrants
+###### |   |   |   |   |   ├── Equity Warrants
 
 *Add content here*

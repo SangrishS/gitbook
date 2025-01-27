@@ -1,3 +1,3 @@
-##### |   |   |   |   ├──  Options
+##### |   |   |   |   ├── Options
 
 *Add content here*

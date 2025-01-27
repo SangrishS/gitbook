@@ -1,3 +1,0 @@
-##### |   |   |   |   ├── Credit Risk Analysis for International Trade Financing
-
-*Add content here*

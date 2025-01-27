@@ -1,3 +1,3 @@
-######## |   |   |   |   |   |   |   ├── Historical Volatility
+##### |   |   |   |   ├── Historical Volatility
 
 *Add content here*

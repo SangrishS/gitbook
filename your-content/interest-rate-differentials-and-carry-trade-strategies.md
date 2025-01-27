@@ -1,3 +1,0 @@
-##### |   |   |   |   ├── Interest Rate Differentials and Carry Trade Strategies
-
-*Add content here*

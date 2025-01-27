@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Inflation Swaps
+#### |   |   |   ├── Inflation Swaps
 
 *Add content here*

@@ -1,3 +1,0 @@
-##### |   |   |   |   ├── Equity Stakes in Strategic Partnerships and Impact on Valuation
-
-*Add content here*

@@ -1,3 +1,3 @@
-##### |   |   |   |   ├──  Mutual Funds
+##### |   |   |   |   ├── Mutual Funds
 
 *Add content here*

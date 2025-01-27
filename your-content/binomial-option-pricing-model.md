@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├── Binomial Option Pricing Model
+#### |   |   |   ├── Binomial Option Pricing Model
 
 *Add content here*

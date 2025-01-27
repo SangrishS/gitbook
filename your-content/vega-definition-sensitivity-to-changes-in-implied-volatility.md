@@ -1,3 +1,0 @@
-###### |   |   |   |   |   ├── Vega Definition: Sensitivity to Changes in Implied Volatility
-
-*Add content here*

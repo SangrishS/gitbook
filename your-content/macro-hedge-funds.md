@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Macro Hedge Funds
+###### |   |   |   |   |   ├── Macro Hedge Funds
 
 *Add content here*

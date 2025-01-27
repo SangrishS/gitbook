@@ -1,3 +1,3 @@
-##### |   |   |   |   ├──  Volatility Indices
+##### |   |   |   |   ├── Volatility Indices
 
 *Add content here*

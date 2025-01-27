@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Structured Notes
+##### |   |   |   |   ├── Structured Notes
 
 *Add content here*

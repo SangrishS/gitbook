@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Private Real Estate Funds
+###### |   |   |   |   |   ├── Private Real Estate Funds
 
 *Add content here*

@@ -1,3 +1,0 @@
-#### |   |   |   ├── Integration of Social Media Data into Market Analytics Platforms
-
-*Add content here*

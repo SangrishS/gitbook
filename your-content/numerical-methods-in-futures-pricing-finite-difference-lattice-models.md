@@ -1,3 +1,0 @@
-###### |   |   |   |   |   ├── Numerical Methods in Futures Pricing (Finite Difference, Lattice Models)
-
-*Add content here*

@@ -1,3 +1,0 @@
-####### |   |   |   |   |   |   ├── Political Risk Mitigation Strategies
-
-*Add content here*

@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Real Estate Investment Trusts (REITs)
+###### |   |   |   |   |   ├── Real Estate Investment Trusts (REITs)
 
 *Add content here*

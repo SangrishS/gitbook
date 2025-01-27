@@ -1,3 +1,3 @@
-##### |   |   |   |   ├── Risk Mitigation Strategies
+#### |   |   |   ├──  Risk Mitigation Strategies
 
 *Add content here*

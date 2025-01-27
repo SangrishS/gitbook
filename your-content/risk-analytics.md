@@ -1,3 +1,3 @@
-##### |   |   |   |   ├── Risk Analytics
+## |   ├── Risk Analytics
 
 *Add content here*

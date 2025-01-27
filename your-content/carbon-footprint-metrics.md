@@ -1,3 +1,3 @@
-### |   |   ├──  Carbon Footprint Metrics
+### |   |   ├── Carbon Footprint Metrics
 
 *Add content here*

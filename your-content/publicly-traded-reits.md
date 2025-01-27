@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Publicly Traded REITs
+####### |   |   |   |   |   |   ├── Publicly Traded REITs
 
 *Add content here*

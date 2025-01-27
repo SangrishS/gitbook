@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Perpetual Bonds
+###### |   |   |   |   |   ├── Perpetual Bonds
 
 *Add content here*

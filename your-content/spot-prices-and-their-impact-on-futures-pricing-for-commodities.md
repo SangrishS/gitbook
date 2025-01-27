@@ -1,3 +1,0 @@
-###### |   |   |   |   |   ├── Spot Prices and Their Impact on Futures Pricing for Commodities
-
-*Add content here*

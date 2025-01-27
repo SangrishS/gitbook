@@ -1,3 +1,3 @@
-######### |   |   |   |   |   |   |   |   ├── Modigliani-Modigliani (M2) Measure
+###### |   |   |   |   |   ├── Modigliani-Modigliani (M2) Measure
 
 *Add content here*

@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Variance Swaps
+##### |   |   |   |   ├── Variance Swaps
 
 *Add content here*

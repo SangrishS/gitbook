@@ -1,0 +1,3 @@
+####### |   |   |   |   |   |   ├──  EGARCH
+
+*Add content here*

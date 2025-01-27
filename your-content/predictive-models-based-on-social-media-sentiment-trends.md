@@ -1,3 +1,0 @@
-#### |   |   |   ├── Predictive Models Based on Social Media Sentiment Trends
-
-*Add content here*

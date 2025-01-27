@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Currency Options
+##### |   |   |   |   ├── Currency Options
 
 *Add content here*

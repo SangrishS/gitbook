@@ -1,3 +1,0 @@
-###### |   |   |   |   |   ├── Open, High, Low, Close (OHLC) Spot Prices
-
-*Add content here*

@@ -1,3 +1,3 @@
-##### |   |   |   |   ├── Dividend Discount Model (DDM)
+### |   |   ├── Dividend Discount Model (DDM)
 
 *Add content here*

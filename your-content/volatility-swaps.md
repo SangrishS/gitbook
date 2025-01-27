@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Volatility Swaps
+##### |   |   |   |   ├── Volatility Swaps
 
 *Add content here*

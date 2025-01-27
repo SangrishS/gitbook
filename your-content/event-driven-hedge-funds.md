@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Event-Driven Hedge Funds
+###### |   |   |   |   |   ├── Event-Driven Hedge Funds
 
 *Add content here*

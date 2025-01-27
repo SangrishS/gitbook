@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├── Peer Group Comparison
+##### |   |   |   |   ├── Peer Group Comparison
 
 *Add content here*

@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├── Active vs. Passive Performance
+##### |   |   |   |   ├── Active vs. Passive Performance
 
 *Add content here*

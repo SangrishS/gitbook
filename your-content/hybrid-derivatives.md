@@ -1,3 +1,3 @@
-##### |   |   |   |   ├──  Hybrid Derivatives
+#### |   |   |   ├── Hybrid Derivatives
 
 *Add content here*

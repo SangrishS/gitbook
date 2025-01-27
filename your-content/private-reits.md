@@ -1,3 +1,3 @@
-###### |   |   |   |   |   ├──  Private REITs
+####### |   |   |   |   |   |   ├── Private REITs
 
 *Add content here*

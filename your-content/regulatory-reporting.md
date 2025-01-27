@@ -1,3 +1,3 @@
-##### |   |   |   |   ├── Regulatory Reporting
+##### |   |   |   |   ├──  Regulatory Reporting
 
 *Add content here*

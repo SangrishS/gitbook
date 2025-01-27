@@ -11547,7 +11547,6 @@
           - [Eurozone Policy Announcements](your-content/eurozone-policy-announcements.md)
           - [New Currency Adoption Events](your-content/new-currency-adoption-events.md)
       - [Corporate Events](your-content/corporate-events.md)
-- [Note: While primarily part of financial calendars, some corporate events have significant economic implications.](your-content/note-while-primarily-part-of-financial-calendars-some-corporate-events-have-significant-economic-implications.md)
         - [Earnings Reports](your-content/earnings-reports.md)
           - [Quarterly Earnings Releases](your-content/quarterly-earnings-releases.md)
           - [Annual Earnings Releases](your-content/annual-earnings-releases.md)
